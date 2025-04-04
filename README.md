@@ -70,3 +70,14 @@ Cuando el servicio está **temporalmente no disponible**.
 **Ejemplos:**
 - Servicio externo caído o sin respuesta
 - Sistema en mantenimiento
+
+---
+
+- ## ✅ Success (200 OK)
+**Cuándo se usa:**
+Cuando la operación fue completada correctamente.
+
+**Ejemplos:**
+- Evaluación creada con éxito
+- Objetivo desasociado correctamente
+
